@@ -1,3 +1,11 @@
+# Welcome to Turzo's Page
+
+This is created to keep track of my personal projects. Trying out list for the first time:
+
+- [x] Create GitHub Page
+- [x] Clone repo to local machine
+- [ ] Push changes to github repo
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/turzobose/turzobose.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
