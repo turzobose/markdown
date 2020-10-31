@@ -4,7 +4,8 @@ This is created to keep track of my personal projects. Trying out list for the f
 
 - [x] Create GitHub Page
 - [x] Clone repo to local machine
-- [ ] Push changes to github repo
+- [x] Push changes to github repo
+- [ ] The challenge
 
 ## Welcome to GitHub Pages
 
