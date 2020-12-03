@@ -15,6 +15,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -35,7 +37,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+| Table | Column |
+| ----------- | ----------- |
+| Row1 | Element |
+| Row2 | Element |
 
 ### Jekyll Themes
 
